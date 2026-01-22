@@ -69,7 +69,8 @@ We developed three Python modules to automate decision-making:
 * **Sai Krishna Reddy**
 * **Vaishnavi**
 * **Hema Varshitha**
-* **Mayur** ---
+* **Mayur**
+  
 *Disclaimer: This project uses anonymized, aggregated datasets provided for the UIDAI 2026 Hackathon theme. It does not contain PII.*
 
 
