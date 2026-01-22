@@ -1,0 +1,6 @@
+libraries used
+
+Pandas
+NumPy
+Matplotlib
+Seaborn
